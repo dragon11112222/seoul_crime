@@ -4,3 +4,5 @@
 - conda 23.7.4
   - pandas 2.1.1
   - numpy 1.24.3
+  - seaborn 0.12.2
+  - matplotlib 3.7.2
